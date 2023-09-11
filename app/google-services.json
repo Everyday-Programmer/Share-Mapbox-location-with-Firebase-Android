@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "253804009903",
+    "project_id": "mapbox-share-location",
+    "storage_bucket": "mapbox-share-location.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253804009903:android:0a1fc4cd194ba8db46775a",
+        "android_client_info": {
+          "package_name": "com.example.mapbox"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqpzjv9koOdbYTxYqlv5D5mQFnSbLTLtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
