@@ -26,5 +26,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Mapbox"
+rootProject.name = "Mapbox with Firebase"
 include ':app'

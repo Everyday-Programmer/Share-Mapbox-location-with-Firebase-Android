@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "253804009903",
-    "project_id": "mapbox-share-location",
-    "storage_bucket": "mapbox-share-location.appspot.com"
+    "project_number": "864089718395",
+    "project_id": "mapbox-with-firebase",
+    "storage_bucket": "mapbox-with-firebase.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:253804009903:android:0a1fc4cd194ba8db46775a",
+        "mobilesdk_app_id": "1:864089718395:android:f710ee9c8c86e46923acde",
         "android_client_info": {
-          "package_name": "com.example.mapbox"
+          "package_name": "com.example.mapboxwithfirebase"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCqpzjv9koOdbYTxYqlv5D5mQFnSbLTLtY"
+          "current_key": "AIzaSyCK6tAHfKhYIH0UrpWd9Q26CruoQ9rLrfA"
         }
       ],
       "services": {
